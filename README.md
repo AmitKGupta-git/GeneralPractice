@@ -2,6 +2,7 @@
 
 ## Simple Bash Help:
 * http://web.stanford.edu/class/cs124/kwc-unix-for-poets.pdf
+* [Bash](http://www.gnu.org/software/bash/manual/bash.html#Indexes)
 
 ---
 ## Git
